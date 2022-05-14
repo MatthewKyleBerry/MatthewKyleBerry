@@ -28,7 +28,7 @@
   - This was built to eleminate the time it took for our points chair to manually compile student points for awards at graduation so that the points chair could focus on providing support for students. 
 
 [CAD Engineer for Passive Multiphase Acoustic Flow Meter]() > Fusion 360, Tig Welding, 3-axis mill
-  - Sketched in fusion 360 and welded Pipe stands for transducer array to reduce the impact of air hammer or the array.
+  - Sketched in fusion 360 and welded steel pipe stands for transducer array to reduce the impact of air hammer on the flow loop.
   - Designed output transducer housing in G-code and used 3-axis CNC mill to produce 256 identical parts for high precision fitment.
-  - Designed input transducer mount with fusion 360 with adjustable positioning to reduce strain on input transducer horn.
-  - 
+  - Led a team to design an input transducer mount with fusion 360 with adjustable positioning to reduce strain on input transducer horn.
+  - Created a jig to accurately repeat milling of 384 holes into an aluminum U-Channel for the mounting of 128 amplifiers.
