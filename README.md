@@ -29,6 +29,6 @@
 
 [CAD Engineer for Passive Multiphase Acoustic Flow Meter]() > Fusion 360, Tig Welding, 3-axis mill
   - Sketched in fusion 360 and welded Pipe stands for transducer array to reduce the impact of air hammer or the array.
-  - Designed output transducer housing in G-code and used 3-axis CNC mill to produce 256 identical parts for low/high tolerance fitment.
+  - Designed output transducer housing in G-code and used 3-axis CNC mill to produce 256 identical parts for high precision fitment.
   - Designed input transducer mount with fusion 360 with adjustable positioning to reduce strain on input transducer horn.
   - 
