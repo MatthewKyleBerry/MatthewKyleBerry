@@ -26,7 +26,9 @@
 [Automated Tracking of Student Activies]() > Excell
   - System for automating tracking points associated with student events allowing for minimal management after setup. 
   - This was built to eleminate the time it took for our points chair to manually compile student points for awards at graduation so that the points chair could focus on providing support for students. 
-<!---
-MatthewKyleBerry/MatthewKyleBerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[CAD Engineer for Passive Multiphase Acoustic Flow Meter]() > Fusion 360, Tig Welding, 3-axis mill
+  - Sketched in fusion 360 and welded Pipe stands for transducer array to reduce the impact of air hammer or the array.
+  - Designed output transducer housing in G-code and used 3-axis CNC mill to produce 256 identical parts for low/high tolerance fitment.
+  - Designed input transducer mount with fusion 360 with adjustable positioning to reduce strain on input transducer horn.
+  - 
