@@ -1,6 +1,6 @@
 > **Intro** <br>
 - Hey, I’m **Mattie Berry** [They/Them]
-- I am a Physics Student, CAD Engineer, and 3D Artist, 
+- I am a Physics graduate, CAD Engineer, and 3D Artist, 
   - Senior at Georgia College and State University.
   - Research with Dr. Ken McGill, and Dr. Hasitha Mahabaduge
   - Treasurer for Eta Sigma Alpha (Student led Honors society for the Honors college at GCSU)
@@ -18,6 +18,10 @@
 
 ***
 > Ongoing Work
+
+[Pico SDVX]() > Circuit Python
+- Turns the Raspberry PI Pico into a controller for the rhythm game SDVX, Unnamed Sound Voltex Clone (USC), and others.
+- Supports rotary encoders, momentary switches, and toggle switches.
 
 
 ***
