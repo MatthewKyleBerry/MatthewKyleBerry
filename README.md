@@ -19,7 +19,7 @@
 ***
 > Ongoing Work
 
-[Pico SDVX]() > Circuit Python
+[Pico SDVX](https://github.com/MatthewKyleBerry/Pico-SDVX) > Circuit Python
 - Turns the Raspberry PI Pico into a controller for the rhythm game SDVX, Unnamed Sound Voltex Clone (USC), and others.
 - Supports rotary encoders, momentary switches, and toggle switches.
 
