@@ -22,9 +22,10 @@
 
 **[VRC Avatar Commissions](https://www.artstation.com/bluerubydragon)** > [Blender](https://www.blender.org/)
  ##### Current Commissions
- - KaleKun's Avatar (**Modeling**, **Texturing**, **Rigging**, <ins>Visemes</ins>, ~~Custom animations~~, Unity, Uploaded)
+ 
     
  ##### Finished Commissions
+ - KaleKun's Avatar (**Modeling**, **Texturing**, **Rigging**, **Visemes**, ~~Custom animations~~, **Unity**, **Uploaded**)
  - Bluerubydragon's Avatar (**Modeling**, **Texturing**, **Rigging**, **Visemes**, **Custom animations**, **Uploaded**)
  
  ***
